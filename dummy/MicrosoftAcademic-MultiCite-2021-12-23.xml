@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<Sources xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <Source>
+    <SourceType>ConferenceProceedings</SourceType>
+    <Tag>bahl2000radar</Tag>
+    <Title>RADAR: an in-building RF-based user location and tracking system</Title>
+    <Year>2000</Year>
+    <URL>https://academic.microsoft.com/paper/2170102584</URL>
+    <Author>
+      <Author>
+        <NameList>
+          <Person>
+            <Last>Bahl</Last>
+            <First>P.</First>
+          </Person>
+          <Person>
+            <Last>Padmanabhan</Last>
+            <First>V.N.</First>
+          </Person>
+        </NameList>
+      </Author>
+    </Author>
+    <Volume>2</Volume>
+    <Pages>775-784</Pages>
+    <ConferenceName>Proceedings IEEE INFOCOM 2000. Conference on Computer Communications. Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies (Cat. No.00CH37064)</ConferenceName>
+  </Source>
+  <Source>
+    <SourceType>JournalArticle</SourceType>
+    <Tag>wang2017csi</Tag>
+    <Title>CSI-Based Fingerprinting for Indoor Localization: A Deep Learning Approach</Title>
+    <Year>2017</Year>
+    <URL>https://academic.microsoft.com/paper/2309512289</URL>
+    <Author>
+      <Author>
+        <NameList>
+          <Person>
+            <Last>Wang</Last>
+            <First>Xuyu</First>
+          </Person>
+          <Person>
+            <Last>Gao</Last>
+            <First>Lingjun</First>
+          </Person>
+          <Person>
+            <Last>Mao</Last>
+            <First>Shiwen</First>
+          </Person>
+          <Person>
+            <Last>Pandey</Last>
+            <First>Santosh</First>
+          </Person>
+        </NameList>
+      </Author>
+    </Author>
+    <Volume>66</Volume>
+    <Issue>1</Issue>
+    <Pages>763-776</Pages>
+    <JournalName>IEEE Transactions on Vehicular Technology</JournalName>
+  </Source>
+  <Source>
+    <SourceType>ConferenceProceedings</SourceType>
+    <Tag>pasricha2015learnloc</Tag>
+    <Title>LearnLoc: a framework for smart indoor localization with embedded mobile devices</Title>
+    <Year>2015</Year>
+    <URL>https://academic.microsoft.com/paper/2148689064</URL>
+    <Author>
+      <Author>
+        <NameList>
+          <Person>
+            <Last>Pasricha</Last>
+            <First>Sudeep</First>
+          </Person>
+          <Person>
+            <Last>Ugave</Last>
+            <First>Viney</First>
+          </Person>
+          <Person>
+            <Last>Anderson</Last>
+            <First>Charles W.</First>
+          </Person>
+          <Person>
+            <Last>Han</Last>
+            <First>Qi</First>
+          </Person>
+        </NameList>
+      </Author>
+    </Author>
+    <Pages>37-44</Pages>
+    <ConferenceName>Proceedings of the 10th International Conference on Hardware/Software Codesign and System Synthesis</ConferenceName>
+  </Source>
+</Sources>
